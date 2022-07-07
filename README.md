@@ -1,6 +1,9 @@
 # mRPI
+
 solve mRPI via SOS
+
 ======================Toolboxes Required:=================================
+
 1.spotless:
 URL: https://github.com/spot-toolbox/spotless
 
