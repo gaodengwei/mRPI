@@ -24,6 +24,8 @@ Tips: MOSEK is a highly efficient commercial solver of LPs, QPs, SOCPs, SDPs, an
 
 4. runNonlinearDT: nonlinear discrete-time system
 
+5.runSat/runMK: Attitude Stabilization of A Satellite/ state converge via feedback controller
+
 ======================III. Main functions=================================
 
 1.mRPI_CT: for the continuous-time systems
